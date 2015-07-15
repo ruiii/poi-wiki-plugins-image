@@ -1,0 +1,1 @@
+# poi-wiki-plugins-image
